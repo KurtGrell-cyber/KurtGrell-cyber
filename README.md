@@ -136,18 +136,66 @@ class KurtGrell:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        CURRENTLY BUILDING                               -->
+<!--                          FEATURED PROJECTS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🔨 Currently Building
+## 🚀 Featured Projects
 
-> This section fills up as I ship. Here's what's on the roadmap:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:------:|
-| **Discord Bot Framework** | Modular, async Discord bot with plugin system | `Python` · `discord.py` | 🟡 Planning |
-| **Automation Toolkit** | CLI tools that automate repetitive dev tasks | `Python` · `Typer` | 🟡 Planning |
-| **FastAPI Starter** | Production-ready API template with auth & Docker | `FastAPI` · `PostgreSQL` | 🟡 Planning |
+### 🤖 [discord-forge](https://github.com/KurtGrell-cyber/discord-forge)
+Modular, database-backed Discord bot framework — moderation, tickets, economy, giveaways & AI chat. Drop a file in `cogs/` and it loads itself.
+
+`Python` · `discord.py` · `SQLite` · `Claude API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [serverpulse](https://github.com/KurtGrell-cyber/serverpulse)
+Real-time VPS monitoring dashboard — CPU, RAM, disk & network streamed to the browser over WebSocket, with threshold alerts.
+
+`FastAPI` · `psutil` · `WebSocket` · `HTML/CSS/JS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [lockbox](https://github.com/KurtGrell-cyber/lockbox)
+Authenticated file encryption CLI — AES-256-GCM with a scrypt-derived key. Tamper-detecting, tested, zero-fuss.
+
+`Python` · `cryptography` · `AES-256-GCM`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [codesage](https://github.com/KurtGrell-cyber/codesage)
+AI code assistant for your terminal — explain, fix, review & generate code with streamed output, powered by Claude.
+
+`Python` · `Anthropic SDK` · `streaming`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛏️ [craftpanel](https://github.com/KurtGrell-cyber/craftpanel)
+Zero-dependency CLI manager for Minecraft servers — console wrapper, world backups, plugin management & status.
+
+`Python` · `stdlib only` · `tested`
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+<i>More on the way — check the<br/>[repositories tab](https://github.com/KurtGrell-cyber?tab=repositories) for everything.</i>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
