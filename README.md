@@ -141,6 +141,8 @@ class KurtGrell:
 
 ## 🚀 Featured Projects
 
+### ⚙️ Backend &amp; Tools
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -192,6 +194,59 @@ Zero-dependency CLI manager for Minecraft servers — console wrapper, world bac
 <br/>
 
 <i>More on the way — check the<br/>[repositories tab](https://github.com/KurtGrell-cyber?tab=repositories) for everything.</i>
+
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend &amp; UI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌤️ [Nexoria Hosting](https://github.com/KurtGrell-cyber/nexoria-hosting)** — premium hosting landing page (glassmorphism, pricing, live status).
+
+<a href="https://github.com/KurtGrell-cyber/nexoria-hosting"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nexoria-hosting/main/docs/screenshot.png" width="100%" alt="Nexoria Hosting" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**◈ [Admin Dashboard](https://github.com/KurtGrell-cyber/admin-dashboard)** — analytics dashboard with hand-drawn Canvas charts & dark mode.
+
+<a href="https://github.com/KurtGrell-cyber/admin-dashboard"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/admin-dashboard/main/docs/screenshot.png" width="100%" alt="Admin Dashboard" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧊 [Portfolio](https://github.com/KurtGrell-cyber/portfolio-website)** — Three.js 3D background, glassmorphism & typing animation.
+
+<a href="https://github.com/KurtGrell-cyber/portfolio-website"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/portfolio-website/main/docs/screenshot.png" width="100%" alt="Portfolio" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**✦ [Synthia SaaS](https://github.com/KurtGrell-cyber/saas-landing)** — AI product landing page with an animated chat mockup.
+
+<a href="https://github.com/KurtGrell-cyber/saas-landing"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/saas-landing/main/docs/screenshot.png" width="100%" alt="Synthia SaaS" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌦️ [Weather Dashboard](https://github.com/KurtGrell-cyber/weather-dashboard)** — live weather via the free Open-Meteo API.
+
+<a href="https://github.com/KurtGrell-cyber/weather-dashboard"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/weather-dashboard/main/docs/screenshot.png" width="100%" alt="Weather Dashboard" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**💰 [Finance Tracker](https://github.com/KurtGrell-cyber/finance-tracker)** — income/expense tracker with a Canvas donut chart.
+
+<a href="https://github.com/KurtGrell-cyber/finance-tracker"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/finance-tracker/main/docs/screenshot.png" width="100%" alt="Finance Tracker" /></a>
 
 </td>
 </tr>
