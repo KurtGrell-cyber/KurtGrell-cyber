@@ -252,6 +252,45 @@ Zero-dependency CLI manager for Minecraft servers — console wrapper, world bac
 </tr>
 </table>
 
+> 🔗 **Every frontend project has a live demo** — click any repo's green **Live Demo** button to open it in your browser.
+
+### ⚡ Interactive Web Apps &amp; Games
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✦ [Nebula SaaS Theme](https://github.com/KurtGrell-cyber/nebula-saas)** — premium ThemeForest-grade SaaS theme with full animations. · [🔗 Live](https://kurtgrell-cyber.github.io/nebula-saas/)
+
+<a href="https://kurtgrell-cyber.github.io/nebula-saas/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nebula-saas/main/docs/screenshot.png" width="100%" alt="Nebula SaaS" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**🗂️ [TaskFlow](https://github.com/KurtGrell-cyber/taskflow)** — Trello-style Kanban with native drag & drop. · [🔗 Live](https://kurtgrell-cyber.github.io/taskflow/)
+
+<a href="https://kurtgrell-cyber.github.io/taskflow/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/taskflow/main/docs/screenshot.png" width="100%" alt="TaskFlow" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📈 [CryptoPulse](https://github.com/KurtGrell-cyber/cryptopulse)** — real-time crypto dashboard (live CoinGecko API). · [🔗 Live](https://kurtgrell-cyber.github.io/cryptopulse/)
+
+<a href="https://kurtgrell-cyber.github.io/cryptopulse/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/cryptopulse/main/docs/screenshot.png" width="100%" alt="CryptoPulse" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 [Neon 2048](https://github.com/KurtGrell-cyber/neon-2048)** — polished 2048 game with a hand-written engine. · [🔗 Play](https://kurtgrell-cyber.github.io/neon-2048/)
+
+<a href="https://kurtgrell-cyber.github.io/neon-2048/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/neon-2048/main/docs/screenshot.png" width="60%" alt="Neon 2048" /></a>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
