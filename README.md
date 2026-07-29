@@ -147,7 +147,7 @@ class KurtGrell:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [discord-forge](https://github.com/KurtGrell-cyber/discord-forge)
+### 🤖 [ForgeBot](https://github.com/KurtGrell-cyber/forgebot)
 Modular, database-backed Discord bot framework — moderation, tickets, economy, giveaways & AI chat. Drop a file in `cogs/` and it loads itself.
 
 `Python` · `discord.py` · `SQLite` · `Claude API`
@@ -205,48 +205,48 @@ Zero-dependency CLI manager for Minecraft servers — console wrapper, world bac
 <tr>
 <td width="50%" valign="top">
 
-**🌤️ [Nexoria Hosting](https://github.com/KurtGrell-cyber/nexoria-hosting)** — premium hosting landing page (glassmorphism, pricing, live status).
+**🌤️ [Nexoria](https://github.com/KurtGrell-cyber/nexoria)** — premium hosting landing page (glassmorphism, pricing, live status).
 
-<a href="https://github.com/KurtGrell-cyber/nexoria-hosting"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nexoria-hosting/main/docs/screenshot.png" width="100%" alt="Nexoria Hosting" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**◈ [Admin Dashboard](https://github.com/KurtGrell-cyber/admin-dashboard)** — analytics dashboard with hand-drawn Canvas charts & dark mode.
-
-<a href="https://github.com/KurtGrell-cyber/admin-dashboard"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/admin-dashboard/main/docs/screenshot.png" width="100%" alt="Admin Dashboard" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧊 [Portfolio](https://github.com/KurtGrell-cyber/portfolio-website)** — Three.js 3D background, glassmorphism & typing animation.
-
-<a href="https://github.com/KurtGrell-cyber/portfolio-website"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/portfolio-website/main/docs/screenshot.png" width="100%" alt="Portfolio" /></a>
+<a href="https://github.com/KurtGrell-cyber/nexoria"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nexoria/main/docs/screenshot.png" width="100%" alt="Nexoria Hosting" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**✦ [Synthia SaaS](https://github.com/KurtGrell-cyber/saas-landing)** — AI product landing page with an animated chat mockup.
+**◈ [Metrica](https://github.com/KurtGrell-cyber/metrica)** — analytics dashboard with hand-drawn Canvas charts & dark mode.
 
-<a href="https://github.com/KurtGrell-cyber/saas-landing"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/saas-landing/main/docs/screenshot.png" width="100%" alt="Synthia SaaS" /></a>
+<a href="https://github.com/KurtGrell-cyber/metrica"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/metrica/main/docs/screenshot.png" width="100%" alt="Admin Dashboard" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🌦️ [Weather Dashboard](https://github.com/KurtGrell-cyber/weather-dashboard)** — live weather via the free Open-Meteo API.
+**🧊 [Portfolio](https://github.com/KurtGrell-cyber/kg-portfolio)** — Three.js 3D background, glassmorphism & typing animation.
 
-<a href="https://github.com/KurtGrell-cyber/weather-dashboard"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/weather-dashboard/main/docs/screenshot.png" width="100%" alt="Weather Dashboard" /></a>
+<a href="https://github.com/KurtGrell-cyber/kg-portfolio"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/kg-portfolio/main/docs/screenshot.png" width="100%" alt="Portfolio" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**💰 [Finance Tracker](https://github.com/KurtGrell-cyber/finance-tracker)** — income/expense tracker with a Canvas donut chart.
+**✦ [Synthia SaaS](https://github.com/KurtGrell-cyber/synthia)** — AI product landing page with an animated chat mockup.
 
-<a href="https://github.com/KurtGrell-cyber/finance-tracker"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/finance-tracker/main/docs/screenshot.png" width="100%" alt="Finance Tracker" /></a>
+<a href="https://github.com/KurtGrell-cyber/synthia"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/synthia/main/docs/screenshot.png" width="100%" alt="Synthia SaaS" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌦️ [Skyline](https://github.com/KurtGrell-cyber/skyline)** — live weather via the free Open-Meteo API.
+
+<a href="https://github.com/KurtGrell-cyber/skyline"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/skyline/main/docs/screenshot.png" width="100%" alt="Weather Dashboard" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**💰 [Ledgerly](https://github.com/KurtGrell-cyber/ledgerly)** — income/expense tracker with a Canvas donut chart.
+
+<a href="https://github.com/KurtGrell-cyber/ledgerly"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/ledgerly/main/docs/screenshot.png" width="100%" alt="Finance Tracker" /></a>
 
 </td>
 </tr>
@@ -260,9 +260,9 @@ Zero-dependency CLI manager for Minecraft servers — console wrapper, world bac
 <tr>
 <td width="50%" valign="top">
 
-**✦ [Nebula SaaS Theme](https://github.com/KurtGrell-cyber/nebula-saas)** — premium ThemeForest-grade SaaS theme with full animations. · [🔗 Live](https://kurtgrell-cyber.github.io/nebula-saas/)
+**✦ [Nebula](https://github.com/KurtGrell-cyber/nebula)** — premium ThemeForest-grade SaaS theme with full animations. · [🔗 Live](https://kurtgrell-cyber.github.io/nebula/)
 
-<a href="https://kurtgrell-cyber.github.io/nebula-saas/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nebula-saas/main/docs/screenshot.png" width="100%" alt="Nebula SaaS" /></a>
+<a href="https://kurtgrell-cyber.github.io/nebula/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nebula/main/docs/screenshot.png" width="100%" alt="Nebula SaaS" /></a>
 
 </td>
 <td width="50%" valign="top">
