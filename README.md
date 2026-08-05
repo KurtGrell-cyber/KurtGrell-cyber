@@ -135,161 +135,90 @@ class KurtGrell:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🚀 Projects
 
-## 🚀 Featured Projects
+<div align="center">
+<i>Sorted by category — Discord bots, websites, web apps, Roblox & tools. Most have a live demo you can open in one click.</i>
+</div>
 
-### ⚙️ Backend &amp; Tools
+### ✨ Featured
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 [ForgeBot](https://github.com/KurtGrell-cyber/forgebot)
-Modular, database-backed Discord bot framework — moderation, tickets, economy, giveaways & AI chat. Drop a file in `cogs/` and it loads itself.
-
-`Python` · `discord.py` · `SQLite` · `Claude API`
-
+<td width="33%" valign="top" align="center">
+<a href="https://kurtgrell-cyber.github.io/nebula/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nebula/main/docs/screenshot.png" alt="Nebula" /></a>
+<b>Nebula</b> · SaaS theme<br/><sub><a href="https://github.com/KurtGrell-cyber/nebula">code</a> · <a href="https://kurtgrell-cyber.github.io/nebula/">🔗 live</a></sub>
 </td>
-<td width="50%" valign="top">
-
-### 📊 [serverpulse](https://github.com/KurtGrell-cyber/serverpulse)
-Real-time VPS monitoring dashboard — CPU, RAM, disk & network streamed to the browser over WebSocket, with threshold alerts.
-
-`FastAPI` · `psutil` · `WebSocket` · `HTML/CSS/JS`
-
+<td width="33%" valign="top" align="center">
+<a href="https://kurtgrell-cyber.github.io/cryptopulse/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/cryptopulse/main/docs/screenshot.png" alt="CryptoPulse" /></a>
+<b>CryptoPulse</b> · live crypto<br/><sub><a href="https://github.com/KurtGrell-cyber/cryptopulse">code</a> · <a href="https://kurtgrell-cyber.github.io/cryptopulse/">🔗 live</a></sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/KurtGrell-cyber/coinflow"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/coinflow/main/docs/screenshot.png" alt="CoinFlow" /></a>
+<b>CoinFlow</b> · economy bot<br/><sub><a href="https://github.com/KurtGrell-cyber/coinflow">code</a></sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔐 [lockbox](https://github.com/KurtGrell-cyber/lockbox)
-Authenticated file encryption CLI — AES-256-GCM with a scrypt-derived key. Tamper-detecting, tested, zero-fuss.
-
-`Python` · `cryptography` · `AES-256-GCM`
-
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/KurtGrell-cyber/rankup"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/rankup/main/docs/screenshot.png" alt="RankUp" /></a>
+<b>RankUp</b> · leveling bot<br/><sub><a href="https://github.com/KurtGrell-cyber/rankup">code</a></sub>
 </td>
-<td width="50%" valign="top">
-
-### 🧠 [codesage](https://github.com/KurtGrell-cyber/codesage)
-AI code assistant for your terminal — explain, fix, review & generate code with streamed output, powered by Claude.
-
-`Python` · `Anthropic SDK` · `streaming`
-
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/KurtGrell-cyber/roblox-kit"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/roblox-kit/main/docs/screenshot.png" alt="roblox-kit" /></a>
+<b>roblox-kit</b> · Luau systems<br/><sub><a href="https://github.com/KurtGrell-cyber/roblox-kit">code</a></sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⛏️ [craftpanel](https://github.com/KurtGrell-cyber/craftpanel)
-Zero-dependency CLI manager for Minecraft servers — console wrapper, world backups, plugin management & status.
-
-`Python` · `stdlib only` · `tested`
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-<i>More on the way — check the<br/>[repositories tab](https://github.com/KurtGrell-cyber?tab=repositories) for everything.</i>
-
+<td width="33%" valign="top" align="center">
+<a href="https://kurtgrell-cyber.github.io/taskflow/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/taskflow/main/docs/screenshot.png" alt="TaskFlow" /></a>
+<b>TaskFlow</b> · Kanban<br/><sub><a href="https://github.com/KurtGrell-cyber/taskflow">code</a> · <a href="https://kurtgrell-cyber.github.io/taskflow/">🔗 live</a></sub>
 </td>
 </tr>
 </table>
 
-### 🎨 Frontend &amp; UI
+### 🤖 Discord Bots
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Bot | What it does |
+|:----|:-------------|
+| 🧩 [**ForgeBot**](https://github.com/KurtGrell-cyber/forgebot) | Modular bot **framework** — moderation, tickets, economy, giveaways & AI chat |
+| 🎫 [**HelpDesk**](https://github.com/KurtGrell-cyber/helpdesk) | Support **ticket** system — panels, private channels, claiming & transcripts |
+| 🪙 [**CoinFlow**](https://github.com/KurtGrell-cyber/coinflow) | **Economy** — daily / work / gamble / pay, shop, inventory & leaderboard |
+| 📈 [**RankUp**](https://github.com/KurtGrell-cyber/rankup) | **Leveling** with Pillow-generated rank cards & XP leaderboard |
+| 🛡️ [**Sentinel**](https://github.com/KurtGrell-cyber/sentinel) | **Moderation & anti-raid** — AutoMod, infractions, raid detection |
+| 🎵 [**Cadence**](https://github.com/KurtGrell-cyber/cadence) | **Music** (wavelink / Lavalink) — queue, loop, volume, now-playing |
 
-**🌤️ [Nexoria](https://github.com/KurtGrell-cyber/nexoria)** — premium hosting landing page (glassmorphism, pricing, live status).
+### 🌐 Websites & Landing Pages
 
-<a href="https://github.com/KurtGrell-cyber/nexoria"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nexoria/main/docs/screenshot.png" width="100%" alt="Nexoria Hosting" /></a>
+| Site | Description | |
+|:-----|:------------|:--|
+| ✦ [**Nebula**](https://github.com/KurtGrell-cyber/nebula) | Premium SaaS theme with full animations & transitions | [🔗 Live](https://kurtgrell-cyber.github.io/nebula/) |
+| ◆ [**Nexoria**](https://github.com/KurtGrell-cyber/nexoria) | Hosting landing — pricing, live status, testimonials | [🔗 Live](https://kurtgrell-cyber.github.io/nexoria/) |
+| ✦ [**Synthia**](https://github.com/KurtGrell-cyber/synthia) | AI product SaaS landing with animated chat mockup | [🔗 Live](https://kurtgrell-cyber.github.io/synthia/) |
+| 🧊 [**KG.dev**](https://github.com/KurtGrell-cyber/kg-portfolio) | Developer portfolio — Three.js 3D background | [🔗 Live](https://kurtgrell-cyber.github.io/kg-portfolio/) |
 
-</td>
-<td width="50%" valign="top">
+### ⚡ Web Apps & Games
 
-**◈ [Metrica](https://github.com/KurtGrell-cyber/metrica)** — analytics dashboard with hand-drawn Canvas charts & dark mode.
+| App | Description | |
+|:----|:------------|:--|
+| ◈ [**Metrica**](https://github.com/KurtGrell-cyber/metrica) | Analytics dashboard — hand-drawn Canvas charts, dark/light | [🔗 Live](https://kurtgrell-cyber.github.io/metrica/) |
+| 📈 [**CryptoPulse**](https://github.com/KurtGrell-cyber/cryptopulse) | Real-time crypto dashboard (live CoinGecko API) | [🔗 Live](https://kurtgrell-cyber.github.io/cryptopulse/) |
+| 🗂️ [**TaskFlow**](https://github.com/KurtGrell-cyber/taskflow) | Kanban board with native drag & drop | [🔗 Live](https://kurtgrell-cyber.github.io/taskflow/) |
+| 💰 [**Ledgerly**](https://github.com/KurtGrell-cyber/ledgerly) | Finance tracker with a Canvas donut chart | [🔗 Live](https://kurtgrell-cyber.github.io/ledgerly/) |
+| 🌤️ [**Skyline**](https://github.com/KurtGrell-cyber/skyline) | Weather dashboard (live Open-Meteo API) | [🔗 Live](https://kurtgrell-cyber.github.io/skyline/) |
+| 🎮 [**Neon 2048**](https://github.com/KurtGrell-cyber/neon-2048) | Polished 2048 game with a hand-written engine | [🔗 Play](https://kurtgrell-cyber.github.io/neon-2048/) |
 
-<a href="https://github.com/KurtGrell-cyber/metrica"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/metrica/main/docs/screenshot.png" width="100%" alt="Admin Dashboard" /></a>
+### 🎮 Roblox / Lua
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+| Project | Description |
+|:--------|:------------|
+| 🌙 [**roblox-kit**](https://github.com/KurtGrell-cyber/roblox-kit) | Exploit-safe **Luau** game systems — DataStore save layer, currency, server-validated shop & inventory (Rojo-ready) |
 
-**🧊 [Portfolio](https://github.com/KurtGrell-cyber/kg-portfolio)** — Three.js 3D background, glassmorphism & typing animation.
+### 🛠️ Tools & CLI
 
-<a href="https://github.com/KurtGrell-cyber/kg-portfolio"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/kg-portfolio/main/docs/screenshot.png" width="100%" alt="Portfolio" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**✦ [Synthia SaaS](https://github.com/KurtGrell-cyber/synthia)** — AI product landing page with an animated chat mockup.
-
-<a href="https://github.com/KurtGrell-cyber/synthia"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/synthia/main/docs/screenshot.png" width="100%" alt="Synthia SaaS" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌦️ [Skyline](https://github.com/KurtGrell-cyber/skyline)** — live weather via the free Open-Meteo API.
-
-<a href="https://github.com/KurtGrell-cyber/skyline"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/skyline/main/docs/screenshot.png" width="100%" alt="Weather Dashboard" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**💰 [Ledgerly](https://github.com/KurtGrell-cyber/ledgerly)** — income/expense tracker with a Canvas donut chart.
-
-<a href="https://github.com/KurtGrell-cyber/ledgerly"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/ledgerly/main/docs/screenshot.png" width="100%" alt="Finance Tracker" /></a>
-
-</td>
-</tr>
-</table>
-
-> 🔗 **Every frontend project has a live demo** — click any repo's green **Live Demo** button to open it in your browser.
-
-### ⚡ Interactive Web Apps &amp; Games
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**✦ [Nebula](https://github.com/KurtGrell-cyber/nebula)** — premium ThemeForest-grade SaaS theme with full animations. · [🔗 Live](https://kurtgrell-cyber.github.io/nebula/)
-
-<a href="https://kurtgrell-cyber.github.io/nebula/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/nebula/main/docs/screenshot.png" width="100%" alt="Nebula SaaS" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**🗂️ [TaskFlow](https://github.com/KurtGrell-cyber/taskflow)** — Trello-style Kanban with native drag & drop. · [🔗 Live](https://kurtgrell-cyber.github.io/taskflow/)
-
-<a href="https://kurtgrell-cyber.github.io/taskflow/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/taskflow/main/docs/screenshot.png" width="100%" alt="TaskFlow" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📈 [CryptoPulse](https://github.com/KurtGrell-cyber/cryptopulse)** — real-time crypto dashboard (live CoinGecko API). · [🔗 Live](https://kurtgrell-cyber.github.io/cryptopulse/)
-
-<a href="https://kurtgrell-cyber.github.io/cryptopulse/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/cryptopulse/main/docs/screenshot.png" width="100%" alt="CryptoPulse" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**🎮 [Neon 2048](https://github.com/KurtGrell-cyber/neon-2048)** — polished 2048 game with a hand-written engine. · [🔗 Play](https://kurtgrell-cyber.github.io/neon-2048/)
-
-<a href="https://kurtgrell-cyber.github.io/neon-2048/"><img src="https://raw.githubusercontent.com/KurtGrell-cyber/neon-2048/main/docs/screenshot.png" width="60%" alt="Neon 2048" /></a>
-
-</td>
-</tr>
-</table>
+| Tool | Description |
+|:-----|:------------|
+| 🧠 [**codesage**](https://github.com/KurtGrell-cyber/codesage) | AI code assistant for the terminal — explain, fix, review, generate (Claude) |
+| 🔐 [**lockbox**](https://github.com/KurtGrell-cyber/lockbox) | AES-256-GCM file encryption CLI with scrypt KDF (tested) |
+| 📊 [**serverpulse**](https://github.com/KurtGrell-cyber/serverpulse) | Real-time VPS monitoring dashboard (FastAPI + WebSocket) |
+| ⛏️ [**craftpanel**](https://github.com/KurtGrell-cyber/craftpanel) | Zero-dependency Minecraft server manager CLI |
 
 <br/>
 
