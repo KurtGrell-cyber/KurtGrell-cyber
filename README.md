@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Kurt%20Grell&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%26%20Lua%20Developer%20%C2%B7%20Backend%20%26%20Automation%20Engineer&descAlignY=56&descSize=16" width="100%" alt="Kurt Grell banner" />
+<img src="assets/banner.png" width="100%" alt="Kurt Grell — Python & Lua Developer, Backend & Automation, Discord Bots, Roblox" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            TYPING ANIMATION                             -->
